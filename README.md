@@ -1,1 +1,1 @@
-# CODSOFT-internship-Project
+# CODSOFT-Internship-Project
